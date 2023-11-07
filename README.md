@@ -4,6 +4,6 @@ Neste primeiro projeto vamos trabalhar na criação de um site de agência de vi
 
 Também teremos aula sobre um *Kit de ferramentas de front end, poderoso, extensível e repleto de recursos que ajuda na criação de sites responsívos*, o **BOOTSTRAP.**
 
-Para desenvolver o site vamos usar o *HTML* para fazer toda parte estrutural do site e ara fazer as estilizações irei usar o *CSS* e o **Bootstrap.**
+Para desenvolver o site vamos usar o *HTML* para fazer toda parte estrutural do site e para as estilizações irei usar o *CSS* e o **Bootstrap.**
 
-### AO FINAL DO PROJETO DEIXAREI UM LINK DO SITE PARA TER UM FEEDBACK DE QUE VISITAR O MESMO. 
+### Em breve teremos o link do site. 
